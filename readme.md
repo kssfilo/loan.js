@@ -1,4 +1,4 @@
-##description 
+##Description 
 
 A level payment loan calculator module to calc payment of month/year/total from principal/interest rate/duration.
 
@@ -38,4 +38,7 @@ Please referer the example below.
 	.
 ```
 
+##Example page
+
+[loan calculator(Japanese)](http://kanasys.com/tech/100)
 
