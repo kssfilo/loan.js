@@ -1,0 +1,20 @@
+{
+  "name": "loan",
+  "description": "A level payment loan calculator module to calc payment of month/year/total from principal/interest rate/duration."
+  "main": "loan.js",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "tags": [
+    "finanancial",
+  ],
+  "author": {
+    "name": "kssfilo"
+  },
+  "license": "MIT",
+  "readmeFilename": "readme.md",
+  "_id": "loan@0.0.1",
+  "_from": "loan"
+}
